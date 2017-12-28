@@ -1,26 +1,12 @@
-SampleDoc: Docs /Developers Italia
-==================================
+Documentazione Progetto, Argomento
+===================================
 
-Questo è il template base per la scrittura della documentazione di Developers Italia
+Questo repo contiene la documentazione relativa a [NOME PROGETTO](). 
+In particolare, qui viene trattato [ARGOMENTO opzionale]().
 
-### Requisiti
+Link
+----
 
-Modificare i file in *src/* e le impostazioni in *src/conf.py*
+Link alla [documentazione compilata su ReadTheDocs](http://modello-docs-italia.readthedocs.io/).
 
-- [Sphinx](http://www.sphinx-doc.org/en/stable/)
-
-### Build
-Dopo aver apportato le dovute modifiche in [`src/`](./src) esegui
-
-```
-sphinx-build -b html src docs
-```
-
-oppure
-
-```
-make html
-```
-
-### Link
-- [sample-doc-docs-developers-italia.readthedocs.io/it/latest/](https://sample-doc-docs-developers-italia.readthedocs.io/it/latest/)
+Link ai [documenti originali (se presenti)]().
